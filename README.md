@@ -1,7 +1,7 @@
 # Books-Sales-with-SQL
 Top selling authors, editorials and genres
 
-Project Description
+Project Description:
 An online bookstore wants to identify which books are most likely to be purchased in order to focus its advertising efforts on them.
 The project objectives were:
 - Set up an online connection to retrieve and download a database using SQL.
